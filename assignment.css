@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    background-color: rgb(226, 143, 234);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.image {
+    width: 80%;
+    height: 40%;
+    border: 5px solid rgb(234, 9, 9);
+    border-radius: 10px;
+}
+
+.content {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    padding: 20px;
+}
+
+.heading {
+    font-family: "Libre Baskerville", serif;
+    color: rgb(33, 3, 125);
+    font-size: 50px;
+    margin: 25px 0;
+}
+
+.subheading {
+    font-family: "Libre Baskerville", serif;
+    color: rgb(7, 148, 255);
+    font-size: 30px;
+    margin-top: 20px;
+}
